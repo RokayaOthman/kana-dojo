@@ -1,0 +1,71 @@
+{
+  "title": "تدريب المفردات",
+  "description": "وسّع مفرداتك في اللغة اليابانية",
+  "selection": {
+    "title": "اختر المفردات",
+    "byLevel": "حسب مستوى JLPT",
+    "byCategory": "حسب التصنيف",
+    "selectAll": "تحديد الكل",
+    "deselectAll": "إلغاء تحديد الكل",
+    "levels": {
+      "n5": "JLPT N5",
+      "n4": "JLPT N4",
+      "n3": "JLPT N3",
+      "n2": "JLPT N2",
+      "n1": "JLPT N1"
+    },
+    "categories": {
+      "all": "الكل",
+      "nouns": "أسماء",
+      "verbs": "أفعال",
+      "adjectives": "صفات",
+      "adverbs": "ظروف",
+      "expressions": "تعبيرات"
+    }
+  },
+  "game": {
+    "title": "لعبة المفردات",
+    "start": "ابدأ اللعبة",
+    "pause": "إيقاف مؤقت",
+    "resume": "استئناف",
+    "finish": "إنهاء",
+    "nextQuestion": "السؤال التالي",
+    "submit": "إرسال الإجابة",
+    "score": "النتيجة: {{points}}",
+    "timeLeft": "الوقت المتبقي: {{seconds}}ث",
+    "streak": "السلسلة: {{count}}",
+    "correct": "إجابة صحيحة!",
+    "incorrect": "إجابة خاطئة",
+    "showAnswer": "عرض الإجابة"
+  },
+  "modes": {
+    "pick": "وضع الاختيار",
+    "reversePick": "وضع الاختيار العكسي",
+    "input": "وضع الإدخال",
+    "reverseInput": "وضع الإدخال العكسي",
+    "description": {
+      "pick": "اعرض الكلمة واختر المعنى",
+      "reversePick": "اعرض المعنى واختر الكلمة",
+      "input": "اعرض الكلمة واكتب المعنى",
+      "reverseInput": "اعرض المعنى واكتب الكلمة"
+    }
+  },
+  "results": {
+    "title": "النتائج",
+    "congratulations": "تهانينا!",
+    "correct": "صحيح: {{count}}",
+    "incorrect": "خطأ: {{count}}",
+    "accuracy": "الدقة: {{percentage}}%",
+    "timeSpent": "الوقت المستغرق: {{time}}",
+    "playAgain": "العب مرة أخرى",
+    "backToMenu": "العودة إلى القائمة"
+  },
+  "details": {
+    "word": "الكلمة",
+    "reading": "القراءة",
+    "meaning": "المعنى",
+    "examples": "جمل توضيحية",
+    "type": "النوع",
+    "jlptLevel": "مستوى JLPT"
+  }
+}

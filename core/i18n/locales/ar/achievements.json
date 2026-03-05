@@ -1,0 +1,33 @@
+{
+  "title": "الإنجازات",
+  "description": "تابع تقدمك واحصل على الإنجازات",
+  "unlocked": "تم فتحه",
+  "locked": "مغلق",
+  "progress": "التقدم: {{current}}/{{total}}",
+  "earnedOn": "تم الحصول عليه في {{date}}",
+  "categories": {
+    "all": "الكل",
+    "kana": "كانا",
+    "kanji": "كانجي",
+    "vocabulary": "المفردات",
+    "general": "عام",
+    "special": "خاص"
+  },
+  "rarity": {
+    "common": "شائع",
+    "rare": "نادر",
+    "epic": "ملحمي",
+    "legendary": "أسطوري"
+  },
+  "notifications": {
+    "achievementUnlocked": "تم فتح إنجاز!",
+    "congratulations": "تهانينا!",
+    "youEarned": "لقد حصلت على"
+  },
+  "stats": {
+    "totalAchievements": "إجمالي الإنجازات",
+    "unlockedAchievements": "المفتوحة",
+    "completionRate": "نسبة الإنجاز",
+    "recentAchievements": "الإنجازات الأخيرة"
+  }
+}

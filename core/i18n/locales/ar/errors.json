@@ -1,0 +1,33 @@
+{
+  "general": {
+    "unknownError": "حدث خطأ غير معروف",
+    "networkError": "خطأ في الشبكة. يرجى التحقق من الاتصال.",
+    "serverError": "خطأ في الخادم. يرجى المحاولة لاحقاً.",
+    "notFound": "غير موجود",
+    "unauthorized": "دخول غير مصرح به",
+    "forbidden": "الوصول ممنوع",
+    "timeout": "انتهت مهلة الطلب"
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "invalidFormat": "تنسيق غير صالح",
+    "tooShort": "الإدخال قصير جدًا",
+    "tooLong": "الإدخال طويل جدًا",
+    "invalidEmail": "عنوان بريد إلكتروني غير صالح",
+    "invalidNumber": "يجب أن يكون رقمًا",
+    "outOfRange": "القيمة خارج النطاق"
+  },
+  "game": {
+    "noSelection": "يرجى اختيار عنصر واحد على الأقل للبدء",
+    "loadFailed": "فشل تحميل بيانات اللعبة",
+    "saveFailed": "فشل حفظ التقدم",
+    "invalidAnswer": "تنسيق الإجابة غير صالح"
+  },
+  "data": {
+    "loadFailed": "فشل تحميل البيانات",
+    "saveFailed": "فشل حفظ البيانات",
+    "exportFailed": "فشل تصدير البيانات",
+    "importFailed": "فشل استيراد البيانات",
+    "invalidData": "تنسيق البيانات غير صالح"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "title": "KanaDojo: كانا",
+    "description": "كانا دوّجو هو المكان الذي يمكنك فيه تعلم وممارسة المقاطع اليابانية الأساسية - الهيراغانا والكاتاكانا."
+  },
+  "title": "تدريب الكانا",
+  "description": "أتقن الهيراغانا والكاتاكانا",
+  "selection": {
+    "title": "اختر مجموعات الكانا",
+    "hiragana": "هيراغانا",
+    "katakana": "كاتاكانا",
+    "selectAll": "اختر الكل",
+    "deselectAll": "إلغاء التحديد",
+    "groups": {
+      "basic": "أساسية",
+      "dakuon": "داكوون",
+      "combo": "تراكيب",
+      "yoon": "يوون"
+    }
+  },
+  "game": {
+    "title": "لعبة الكانا",
+    "start": "ابدأ اللعبة",
+    "pause": "إيقاف مؤقت",
+    "resume": "استئناف",
+    "finish": "إنهاء",
+    "nextQuestion": "السؤال التالي",
+    "submit": "إرسال الإجابة",
+    "score": "النقاط: {{points}}",
+    "timeLeft": "الوقت المتبقي: {{seconds}}ث",
+    "streak": "سلسلة صحيحة: {{count}}",
+    "correct": "صحيح!",
+    "incorrect": "خطأ",
+    "tryAgain": "حاول مرة أخرى"
+  },
+  "modes": {
+    "pick": "وضع الاختيار",
+    "reversePick": "الاختيار العكسي",
+    "input": "وضع الإدخال",
+    "reverseInput": "الإدخال العكسي",
+    "description": {
+      "pick": "شاهد الكانا واختر القراءة الصحيحة",
+      "reversePick": "شاهد القراءة واختر الكانا الصحيح",
+      "input": "شاهد الكانا واكتب القراءة",
+      "reverseInput": "شاهد القراءة واكتب الكانا"
+    }
+  },
+  "results": {
+    "title": "النتائج",
+    "congratulations": "تهانينا!",
+    "correct": "صحيح: {{count}}",
+    "incorrect": "خطأ: {{count}}",
+    "accuracy": "الدقة: {{percentage}}%",
+    "timeSpent": "الوقت المستغرق: {{time}}",
+    "playAgain": "العب مرة أخرى",
+    "backToMenu": "العودة إلى القائمة"
+  },
+  "dictionary": {
+    "title": "قاموس الكانا",
+    "search": "ابحث عن الكانا...",
+    "character": "الحرف",
+    "romaji": "روماني",
+    "type": "النوع"
+  }
+}

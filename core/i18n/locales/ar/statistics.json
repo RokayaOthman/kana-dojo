@@ -1,0 +1,47 @@
+{
+  "title": "الإحصائيات",
+  "description": "تقدمك وإحصائيات التعلم الخاصة بك",
+  "overview": {
+    "title": "نظرة عامة",
+    "totalStudyTime": "إجمالي وقت الدراسة",
+    "questionsAnswered": "عدد الأسئلة المُجاب عنها",
+    "accuracy": "الدقة الإجمالية",
+    "currentStreak": "السلسلة الحالية",
+    "longestStreak": "أطول سلسلة"
+  },
+  "charts": {
+    "dailyActivity": "النشاط اليومي",
+    "accuracyOverTime": "الدقة عبر الوقت",
+    "progressByLevel": "التقدم حسب المستوى",
+    "timeByDojo": "الوقت حسب الدوجو"
+  },
+  "kana": {
+    "title": "إحصائيات الكانا",
+    "mastered": "متقن",
+    "learning": "قيد التعلم",
+    "notStarted": "لم يبدأ",
+    "hiraganaProgress": "تقدم الهيراغانا",
+    "katakanaProgress": "تقدم الكاتاكانا"
+  },
+  "kanji": {
+    "title": "إحصائيات الكانجي",
+    "mastered": "متقن",
+    "learning": "قيد التعلم",
+    "notStarted": "لم يبدأ",
+    "byLevel": "حسب مستوى JLPT"
+  },
+  "vocabulary": {
+    "title": "إحصائيات المفردات",
+    "wordsLearned": "عدد الكلمات المتعلمة",
+    "mastered": "متقن",
+    "learning": "قيد التعلم",
+    "byLevel": "حسب مستوى JLPT"
+  },
+  "performance": {
+    "title": "الأداء",
+    "bestAccuracy": "أفضل دقة",
+    "fastestTime": "أسرع وقت",
+    "longestSession": "أطول جلسة",
+    "mostImproved": "الأكثر تحسنًا"
+  }
+}

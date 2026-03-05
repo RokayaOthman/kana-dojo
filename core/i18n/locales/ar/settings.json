@@ -1,0 +1,58 @@
+{
+  "title": "الإعدادات",
+  "description": "خصص تجربة التعلم الخاصة بك",
+  "general": {
+    "title": "عام",
+    "language": "اللغة",
+    "theme": "السمة",
+    "sound": "المؤثرات الصوتية",
+    "notifications": "الإشعارات"
+  },
+  "appearance": {
+    "title": "المظهر",
+    "colorTheme": "سمة الألوان",
+    "font": "خط ياباني",
+    "fontSize": "حجم الخط",
+    "darkMode": "الوضع الداكن",
+    "customTheme": "سمة مخصصة"
+  },
+  "game": {
+    "title": "إعدادات اللعبة",
+    "timeLimit": "الحد الزمني",
+    "questionsPerSession": "عدد الأسئلة لكل جلسة",
+    "difficulty": "مستوى الصعوبة",
+    "autoNext": "الانتقال التلقائي للسؤال التالي",
+    "showHints": "إظهار التلميحات"
+  },
+  "audio": {
+    "title": "الصوت",
+    "soundEffects": "المؤثرات الصوتية",
+    "volume": "مستوى الصوت",
+    "clickSound": "صوت النقر",
+    "correctSound": "صوت الإجابة الصحيحة",
+    "incorrectSound": "صوت الإجابة الخاطئة"
+  },
+  "preferences": {
+    "title": "التفضيلات",
+    "showRomaji": "إظهار الروماجي",
+    "showFurigana": "إظهار الفوريغانا",
+    "inputMethod": "طريقة الإدخال",
+    "keyboardShortcuts": "اختصارات لوحة المفاتيح"
+  },
+  "data": {
+    "title": "البيانات",
+    "exportData": "تصدير البيانات",
+    "importData": "استيراد البيانات",
+    "resetProgress": "إعادة تعيين التقدم",
+    "clearCache": "مسح ذاكرة التخزين المؤقت",
+    "confirmReset": "هل أنت متأكد أنك تريد إعادة تعيين كل التقدم؟ لا يمكن التراجع عن هذا الإجراء."
+  },
+  "themes": {
+    "light": "فاتح",
+    "dark": "داكن",
+    "system": "النظام",
+    "custom": "مخصص",
+    "presets": "سمات جاهزة",
+    "createCustom": "إنشاء سمة مخصصة"
+  }
+}

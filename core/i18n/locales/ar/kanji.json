@@ -1,0 +1,66 @@
+{
+  "title": "تدريب كانجي",
+  "description": "أتقن حروف كانجي اليابانية",
+  "selection": {
+    "title": "اختر حروف كانجي",
+    "byLevel": "حسب مستوى JLPT",
+    "byCategory": "حسب الفئة",
+    "selectAll": "تحديد الكل",
+    "deselectAll": "إلغاء تحديد الكل",
+    "levels": {
+      "n5": "JLPT N5",
+      "n4": "JLPT N4",
+      "n3": "JLPT N3",
+      "n2": "JLPT N2",
+      "n1": "JLPT N1"
+    }
+  },
+  "game": {
+    "title": "لعبة كانجي",
+    "start": "ابدأ اللعبة",
+    "pause": "إيقاف مؤقت",
+    "resume": "استئناف",
+    "finish": "إنهاء",
+    "nextQuestion": "السؤال التالي",
+    "submit": "إرسال الإجابة",
+    "score": "النقاط: {{points}}",
+    "timeLeft": "الوقت المتبقي: {{seconds}}ث",
+    "streak": "سلسلة صحيحة: {{count}}",
+    "correct": "صحيح!",
+    "incorrect": "خطأ",
+    "showAnswer": "عرض الإجابة",
+    "hint": "تلميح"
+  },
+  "modes": {
+    "pick": "وضع الاختيار",
+    "reversePick": "الاختيار العكسي",
+    "input": "وضع الإدخال",
+    "reverseInput": "الإدخال العكسي",
+    "description": {
+      "pick": "اعرض كانجي واختر المعنى",
+      "reversePick": "اعرض المعنى واختر كانجي",
+      "input": "اعرض كانجي واكتب المعنى",
+      "reverseInput": "اعرض المعنى واكتب كانجي"
+    }
+  },
+  "results": {
+    "title": "النتائج",
+    "congratulations": "تهانينا!",
+    "correct": "إجابات صحيحة: {{count}}",
+    "incorrect": "إجابات خاطئة: {{count}}",
+    "accuracy": "الدقة: {{percentage}}%",
+    "timeSpent": "الوقت المستغرق: {{time}}",
+    "playAgain": "العب مرة أخرى",
+    "backToMenu": "العودة إلى القائمة"
+  },
+  "details": {
+    "meaning": "المعنى",
+    "readings": "القراءات",
+    "onyomi": "أونيومي",
+    "kunyomi": "كونيومي",
+    "examples": "أمثلة",
+    "strokes": "الخطوط",
+    "radical": "الجذر",
+    "jlptLevel": "مستوى JLPT"
+  }
+}

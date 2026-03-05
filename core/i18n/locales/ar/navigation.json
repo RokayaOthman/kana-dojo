@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "home": "الرئيسية",
+    "kana": "كانا",
+    "kanji": "كانجي",
+    "vocabulary": "المفردات",
+    "academy": "الأكاديمية",
+    "achievements": "الإنجازات",
+    "statistics": "الإحصائيات",
+    "progress": "التقدم",
+    "settings": "الإعدادات",
+    "preferences": "التفضيلات",
+    "about": "حول",
+    "help": "مساعدة",
+    "logout": "تسجيل الخروج"
+  },
+  "breadcrumbs": {
+    "home": "الرئيسية",
+    "back": "العودة إلى {{name}}"
+  },
+  "footer": {
+    "copyright": "© {{year}} كانا دوجو. جميع الحقوق محفوظة.",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "contact": "اتصل بنا"
+  }
+}
